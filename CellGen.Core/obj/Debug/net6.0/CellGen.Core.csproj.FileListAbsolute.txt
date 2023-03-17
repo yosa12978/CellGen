@@ -1,0 +1,12 @@
+D:\Programs\CellGen\CellGen.Core\bin\Debug\net6.0\CellGen.Core.deps.json
+D:\Programs\CellGen\CellGen.Core\bin\Debug\net6.0\CellGen.Core.dll
+D:\Programs\CellGen\CellGen.Core\bin\Debug\net6.0\CellGen.Core.pdb
+D:\Programs\CellGen\CellGen.Core\obj\Debug\net6.0\CellGen.Core.csproj.AssemblyReference.cache
+D:\Programs\CellGen\CellGen.Core\obj\Debug\net6.0\CellGen.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\CellGen\CellGen.Core\obj\Debug\net6.0\CellGen.Core.AssemblyInfoInputs.cache
+D:\Programs\CellGen\CellGen.Core\obj\Debug\net6.0\CellGen.Core.AssemblyInfo.cs
+D:\Programs\CellGen\CellGen.Core\obj\Debug\net6.0\CellGen.Core.csproj.CoreCompileInputs.cache
+D:\Programs\CellGen\CellGen.Core\obj\Debug\net6.0\CellGen.Core.dll
+D:\Programs\CellGen\CellGen.Core\obj\Debug\net6.0\refint\CellGen.Core.dll
+D:\Programs\CellGen\CellGen.Core\obj\Debug\net6.0\CellGen.Core.pdb
+D:\Programs\CellGen\CellGen.Core\obj\Debug\net6.0\ref\CellGen.Core.dll

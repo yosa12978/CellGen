@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CellGen.GUI/1.0.0": {
+        "dependencies": {
+          "CellGen.Core": "1.0.0"
+        },
+        "runtime": {
+          "CellGen.GUI.dll": {}
+        }
+      },
+      "CellGen.Core/1.0.0": {
+        "runtime": {
+          "CellGen.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CellGen.GUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CellGen.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
